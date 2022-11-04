@@ -1,0 +1,19 @@
+{
+  "name": "learn-sonarq",
+  "version": "1.0.0",
+  "description": "learn sonarqube with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iceman951/learn-sonarQube.git"
+  },
+  "author": "iceman951",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iceman951/learn-sonarQube/issues"
+  },
+  "homepage": "https://github.com/iceman951/learn-sonarQube#readme"
+}
